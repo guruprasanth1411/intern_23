@@ -1,0 +1,160 @@
+.bg-container{
+    height: 100vh;
+    background: linear-gradient(to right, #ff706c, #ffbc6d);
+}
+.nav-link-title{
+    font-weight: bold;
+    font-size: 30px;
+}
+.nav-link-download{
+    border:2px solid;
+    
+}
+.nav-link{
+
+}
+.carousel-img{
+    background-size: cover;
+    height: 80vh;
+}
+.carousel-heading{
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.Download-btn{
+    border: 0;
+    background-color: #fe7169;
+    padding: 10px;
+    width: 150px;
+    margin-bottom: 100px;
+    color: #ffffff;
+    border-radius: 5px;
+}
+.home-second-bg{
+    height: 250px;
+    background-color: #ebf0ec;
+}
+.home-second-bg-card{
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.home-second-bg-card-img{
+    margin-right: 20px;
+    height: 50px;
+    
+}
+.about-page-bg{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.about-page-container{
+    width: 600px;
+    margin-top: 0;
+}
+.best-features-bg{
+    background-color: #ebf0ec;
+    
+}
+.Watch-our-video-btn{
+    background-color: #fe7169;
+    border: 0;
+    padding: 20px;
+    width: 250px;
+    border-radius: 8px;
+}
+.best-features-heading-container{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.best-features-title-card{
+    width: 600px;
+}
+.best-features-details-card{
+    width: 250px;
+    text-align: center;
+}
+.icon-img{
+    height: 40px;
+    width: 40px;
+    background-size: cover;
+}
+.how-it-words-page-btn{
+    background-color: #fe7169;
+    border: 2px;
+    padding: 10px;
+    border-radius: 2px;
+}
+.lovely-team-members-bg{
+    text-align: center;
+    height: 400px;
+}
+.team-img{
+    height: 150px;
+}
+.sub-page-bg{
+    background-color: #ebf0ec;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.input-text{
+    width: 300px;
+}
+.sub-page-btn{
+    width: 150px;
+    border: 0;
+    background-color: #fe7169;
+    border-radius: 5px;
+    padding: 10px;
+}
+.contact-us-bg{
+    background: linear-gradient(to right, #ff706c, #ffbc6d);
+    height: 120vh;
+}
+.contact-us-heading{
+    text-align: center;
+    color: #ffffff;
+}
+.contact-us-card{
+    background-color: #ffffff;
+    width: 90vw;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+}
+.contact-us-form{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form-btn{
+    background-color: #fe7169;
+    border: 0;
+    padding: 10px;
+    width: 150px;
+}
+.contact-us-contact-details{
+
+}
+.line-height{
+    line-height: 0%;
+    
+}
+.how-it-words-page-btn:hover{
+    background-color: yellow;
+}
