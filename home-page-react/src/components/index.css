@@ -1,0 +1,149 @@
+.carousel-img{
+    height: 500px;
+    width: 100px;
+}
+.home-second-bg{
+    height: 250px;
+    background-color: #ebf0ec;
+}
+.home-second-bg-card{
+    width: 400px;
+    display: flex;  
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+.home-second-bg-card-img{
+    margin-right: 20px;
+    height: 50px;
+    
+}
+.about-page-bg{
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+.about-page-container{
+    width: 600px;
+    margin-top: 0;
+    
+}
+.Watch-our-video-btn{
+    background-color: #fe7169;
+    border: 0;
+    padding: 20px;
+    width: 250px;
+    border-radius: 8px;
+}
+.best-features-bg{
+    background-color: #ebf0ec;
+    text-align: center;
+    height: 150vh;   
+    
+}
+.best-features-heading-container{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.best-features-title-card{
+    width: 600px;
+}
+.best-features-details-card{
+    width: 250px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.sub-page-bg{
+    background-color: #fffffff;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.input-text{
+    width: 300px;
+}
+.sub-page-btn{
+    width: 150px;
+    border: 0;
+    background-color: #fe7169;
+    border-radius: 5px;
+    padding: 10px;
+}
+.contact-us-bg{
+    background: linear-gradient(to right, #ff706c, #ffbc6d);
+    height: 120vh;
+}
+.contact-us-heading{
+    text-align: center;
+    color: #ffffff;
+}
+.contact-us-card{
+    background-color: #ffffff;
+    width: 90vw;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-us-form{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form-btn{
+    background-color: #fe7169;
+    border: 0;
+    padding: 10px;
+    width: 150px;
+}
+
+.line-height{
+    line-height: 0%;
+    
+}
+
+.best-features-details-card:hover{
+    background-color: #fe7169;
+}
+
+.card-text{
+    font-size: 14px;
+}
+
+.card:hover{
+    transform: scale(1.15);
+
+}
+.card{
+    transition: all 0.3s;
+    text-align: center;
+}
+.gradient-custom {
+    background: radial-gradient(50% 123.47% at 50% 50%, #00ff94 0%, #720059 100%),
+      linear-gradient(121.28deg, #669600 0%, #ff0000 100%),
+      linear-gradient(360deg, #0029ff 0%, #8fff00 100%),
+      radial-gradient(100% 164.72% at 100% 100%, #6100ff 0%, #00ff57 100%),
+      radial-gradient(100% 148.07% at 0% 0%, #fff500 0%, #51d500 100%);
+    background-blend-mode: screen, color-dodge, overlay, difference, normal;
+}
+.carousel-indicators {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+}
